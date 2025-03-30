@@ -1,1 +1,2 @@
 # Sport-Warehouse-Portal
+The Sport-Warehouse-Portal is a digital platform designed to streamline the management of sports equipment, inventory tracking, and order processing. The system allows warehouse staff, suppliers, and customers to efficiently handle stock levels, orders, and deliveries in real time.
